@@ -1,10 +1,16 @@
 <div align="center">
-  <a href="https://www.linkedin.com/in/muhammad-sheraz-66a787205/">
+  <a href="https://www.linkedin.com/in/muhammad-sheraz-66a787205/" target="_blank">
     <!-- LinkedIn Badge -->
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
 
+  <a href="https://sheraz.netlify.app/" target="_blank">
+    <!-- Portfolio Badge -->
+    <img src="https://img.shields.io/badge/-Portfolio-black?style=flat&logo=portfolio&logoColor=white" alt="Portfolio Badge" />
+  </a>
 </div>
+
+
 
 <p align="center">
   Hey 👋
